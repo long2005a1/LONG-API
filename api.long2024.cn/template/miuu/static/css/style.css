@@ -1,0 +1,14 @@
+.logo {float:left;font-size:0}
+.logo img {max-height:60px;vertical-align:middle}
+@media screen and (max-width:1200px) {
+.logo {width:100%;text-align:center}
+.logo img {max-height:35px}
+}
+
+
+/*youlan*/
+.friend-links{position:relative;background:#fff;border-radius:var(--border-hd);margin:10px;margin-bottom:20px;border:var(--border-box)}.list-plane-linksdescribe{margin-left:10px;font-size:14px;color:#999}.friend-links-list a{color:#999!important;transition:all .3s ease-out 0s}.friend-links-list img{width:20px;vertical-align:middle}.friend-links-list a:hover{color:var(--MaincolorHover)!important}.friend-links li{font-size:15px;list-style:none;margin-right:20px;margin-bottom:6px;vertical-align:middle}.friend-links-item-title{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.friend-links-icon{max-width:20px}.friend-links-item{margin-right:10px}.friend-links-item img{margin-right:8px}.friend-links-item-card{border:1px solid #f0f0f0;padding:10px;border-radius:var(--border-hd);position:relative;top:0;display:flex;flex-direction:row;/*width:100%;*/align-items:stretch}.friend-links-item-main{min-width:0}.friend-links-item-icon{flex-shrink:0}.friend-links-item-card img{width:36px;margin-right:10px}.friend-links-item-card:hover{top:-5px}.friend-links-item-description{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:12px}.list-plane-title{background:#fff;padding:19px 8px;border-bottom:1px solid #f5f6f7;white-space:nowrap;overflow:auto}.list-plane-title::-webkit-scrollbar{display:none}.list-plane-title > div{padding-left:20px;font-weight:500;font-size:18px}.friend-links-list{padding:20px;margin:0 10px;display:flex;flex-wrap:wrap;font-weight:300}.friend-links-card-list{display:grid!important;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));grid-gap:10px}.post-content .friend-links-list{padding:0;margin:0}.friend-links-list img{box-shadow:none!important}.friend-links-apply{position:absolute;right:20px;top:20px;color:#999!important;font-size:14px}.go-top-plane{background:#e8eaeb;position:fixed;bottom:80px;right:20px;border-radius:8px;padding:10px;visibility:hidden;opacity:0;transition:.30s;color:#999;z-index:99}
+
+/***/
+.container{max-width:1200px;margin-left:auto;margin-right:auto;flex:1;width:100%}
+
